@@ -1,3 +1,5 @@
+#/usr/openresty/nginx/html/ma.js
+
 (function () {
     var params = {};
     alert(document.domain);
