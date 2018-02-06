@@ -1,0 +1,2 @@
+create @Master:/usr/openresty/nginx/logs/ma.log
+AND CHMOD to 777
