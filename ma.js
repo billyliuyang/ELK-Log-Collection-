@@ -1,4 +1,4 @@
-#/usr/openresty/nginx/html/ma.js
+#@Master:/usr/openresty/nginx/html/ma.js
 
 (function () {
     var params = {};
